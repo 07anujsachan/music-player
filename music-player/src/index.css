@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background-color: black;
+}
+/* audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+} */
